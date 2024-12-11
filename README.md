@@ -10,7 +10,7 @@ This project explores what makes a song a hit on Spotify by analyzing the audio 
 - Technologies Used
 - Dataset
 - Contributing
-- License]
+- License
 
 ---
 
