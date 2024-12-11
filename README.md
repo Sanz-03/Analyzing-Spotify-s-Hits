@@ -3,14 +3,14 @@
 This project explores what makes a song a hit on Spotify by analyzing the audio features of popular tracks. Using data such as tempo, energy, danceability, and more, we uncover trends, visualize patterns, and derive insights into the key ingredients of chart-topping songs.
 
 ## 📖 Table of Contents
-- [Overview](#overview)
-- [Key Findings](#key-findings)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Technologies Used](#technologies-used)
-- [Dataset](#dataset)
-- [Contributing](#contributing)
-- [License](#license)
+- Overview
+- Key Findings
+- Installation
+- Usage
+- Technologies Used
+- Dataset
+- Contributing
+- License]
 
 ---
 
